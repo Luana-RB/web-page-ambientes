@@ -1,19 +1,4 @@
-**Desafio 01**
+# Web Page Ambientes
+This is a learning project to practice html and css basic features, using a Figma project as a base for the design.
 
-**Objetivo:**
-
-Construa uma página WEB seguindo este [protótipo do Figma](https://www.figma.com/design/XOkogney72CfkYlA1kBasU/Projeto-01?node-id=0-1&t=RW04ndyVPXtMnWEo-1).
-
-**Requisitos:**
-
-- Use HTML e CSS para criar a página.
-- Coloque o código no GitHub.
-
-**Desafio extra:**
-
-- Publique a página na web usando plataformas como Vercel, Render ou Netlify.
-- Escreva um README explicando o projeto.
-
-**Dica:** Escreva o README em inglês para se preparar para mais oportunidades no futuro.
-
-Boa sorte!!
+The page was deployed using Vercel    [Access Here](https://web-page-ambientes.vercel.app/)
